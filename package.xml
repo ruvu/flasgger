@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>flasgger</name>
+  <version>0.0.0</version>
+  <description>The flasgger package</description>
+
+  <maintainer email="ramon@ruvu.nl">Ramon Wijnands</maintainer>
+
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <exec_depend>python-flask</exec_depend>
+  <exec_depend>python-jsonschema</exec_depend>
+  <exec_depend>python-mistune</exec_depend>
+  <exec_depend>python-six</exec_depend>
+  <exec_depend>python-yaml</exec_depend>
+</package>
